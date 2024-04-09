@@ -1,5 +1,4 @@
 # Copyright © 2019, Microsoft Corporation. All rights reserved.
-
 <#
 .SYNOPSIS
     Reset Windows Search Box.
